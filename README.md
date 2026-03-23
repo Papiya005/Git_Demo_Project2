@@ -1,4 +1,4 @@
 # new project 
-This project was created by local system.
-created by papiya dutta..
+This project was created by local sytem create by papiya dutta.
+
 
